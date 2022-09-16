@@ -1,0 +1,6 @@
+200,Charity
+500,Transportation
+1500,Shopping
+0,Bills
+0,Food
+0,Entertainment
